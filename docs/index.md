@@ -7,7 +7,7 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 !!! info "2023-12-12 - Workshop accepted"
 
-    ![Group Picture 2023](/assets/d2r2-2023.jpg){align=right width=50%}
+    ![Group Picture 2023](assets/d2r2-2023.jpg){align=right width=50%}
     The very active discussions at this years [D2R2'23](https://2023.d2r2.aksw.org/) demonstrated, that the research topic is still underrepresented so we decided to organize a third instantiation of the D2R2 workshop.
 
     We are now happy to anncounce, that the **Third International Workshop on Linked Data-driven Resilience Research 2024 (D2R2’24)** was accepted again as a half-day Workshop at the European Semantic Web Conference (ESWC2024) on May 26th or 27th, 2024.

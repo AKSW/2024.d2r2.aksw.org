@@ -4,7 +4,7 @@
 
 !!! info inline end ""
 
-    ![Julia Holze](/assets/people/Julia.png)
+    ![Julia Holze](assets/people/Julia.png)
 
 
 [Community & PR Manager @ InfAI e.V.](https://kmi-leipzig.de/ueber-uns/julia-holze/)
@@ -16,7 +16,7 @@ With a master's degree in communication and media science, Julia Holze manages t
 
 !!! info inline end ""
 
-    ![Sebastian Tramp](/assets/people/Seebi.png)
+    ![Sebastian Tramp](assets/people/Seebi.png)
 
 
 [CTO @ eccenca GmbH](https://aksw.org/SebastianTramp)
@@ -28,7 +28,7 @@ As Chief Technology Officer Sebastian is responsible for the technology and prod
 
 !!! info inline end ""
 
-    ![Michael Martin](/assets/people/Micha.png)
+    ![Michael Martin](assets/people/Micha.png)
 
 
 Professor at [Chemnitz University of Technology](https://www.tu-chemnitz.de/informatik/dm/index.php) and [InfAI e.V.](https://cc-eti.org/dr-michael-martin/)
@@ -41,7 +41,7 @@ In 2006, Michael Martin joined the Agile Knowledge and Semantic Web (AKSW) resea
 
 !!! info inline end ""
 
-    ![Sören Auer](/assets/people/Soeren.png)
+    ![Sören Auer](assets/people/Soeren.png)
 
 [Director @ TIB / Head of research group Data Science and Digital Libraries]( https://www.tib.eu/en/research-development/research-groups-and-labs/data-science-digital-libraries/staff/soeren-auer)
 
@@ -52,7 +52,7 @@ Following stations at the universities of Dresden, Ekaterinburg, Leipzig, Pennsy
 
 !!! info inline end ""
 
-    ![Ricardo Usbeck](/assets/people/Ricardo.png)
+    ![Ricardo Usbeck](assets/people/Ricardo.png)
 
 [Full Professor of Information Systems, esp. AI and Explainability, Leuphana University Lüneburg](https://www.leuphana.de/aix)
 
