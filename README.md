@@ -1,8 +1,8 @@
-# 2023.d2r2.aksw.org
+# 2024.d2r2.aksw.org
 
 [![example workflow][build-shield]][github-actions] [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![CC BY-SA 4.0][mkdocs-shield]][mkdocs] [![made-with-Markdown][markdown-shield]](http://commonmark.org)
 
-Shared repository of D2R2'23 web page
+Shared repository of D2R2'24 web page
 
 | Branch       | Deployment |
 | :---         | :--- |
