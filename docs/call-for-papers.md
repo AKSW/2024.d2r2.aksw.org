@@ -43,5 +43,5 @@ The workshop is planned as a half day onsite event with a target of 6-8 paper pr
 * Accepted contributions are planned to be published in the [Open Access CEUR proceedings](proceedings.md).
 * At least one author of an accepted paper must register for the workshop to present their work.
 
-Submission via easychair.org (soon)
+Submission via easychair.org: [https://easychair.org/conferences/?conf=d2r2-24](https://easychair.org/conferences/?conf=d2r2-24)
 
