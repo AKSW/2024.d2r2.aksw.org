@@ -7,7 +7,7 @@ We invite contributions of novel results and ongoing work as well as position pa
 * Paper Submission Deadline: **March 07, 2024** (11:59 pm, Hawaii time)
 * Notification of Acceptance: April 04, 2024 (11:59 pm, Hawaii time)
 * Camera-Ready Paper: April 18, 2024 (11:59 pm, Hawaii time)
-* Workshop: May 26 **or**  May 27, 2024
+* Workshop: May 27, 2024 (Monday)
 
 ## Topics of Interest (all in the context of Resilience Research)
 
