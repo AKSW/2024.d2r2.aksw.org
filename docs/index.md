@@ -5,6 +5,10 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-02-27 - Deadline extension"
+
+    We extended the deadline for workshop submissions to 2024-03-22.
+
 !!! info "2024-02-13 - Date Fixed"
 
     The ESWC2024 workshops chairs just confirmed our workshop day via e-mail. The D2R2‘24 workshop will take place on 2024-05-27 (Monday).
