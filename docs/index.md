@@ -5,6 +5,12 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-03-18 - Clarification of Page Limitations"
+
+    Based on a question from a submitting researcher, we clarfied the submission page limits:
+    Maximum 10 pages (full papers) or 5 pages (short papers, discussion papers).
+    **This page count excludes references and appendices.**
+
 !!! info "2024-02-27 - Deadline extension"
 
     We extended the deadline for workshop submissions to 2024-03-22.

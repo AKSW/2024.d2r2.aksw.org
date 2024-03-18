@@ -38,6 +38,7 @@ Topics of Interest include (all in the context of Resilience Research):
 The workshop is planned as a half day onsite event with a target of 6-8 paper presentations and one keynote.
 
 * Maximum 10 pages (full papers) or 5 pages (short papers, discussion papers).
+    * This page count excludes references and appendices.
 * Papers must be formatted as PDF according to the [CEUR-ART format](https://ceur-ws.org/HOWTOSUBMIT.html) one-column style.
 * Reviews will be carried out in a single-blind mode. Submission of supplementary source code and data is appreciated.
 * Accepted contributions are planned to be published in the [Open Access CEUR proceedings](proceedings.md).
