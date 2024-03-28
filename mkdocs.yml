@@ -183,7 +183,7 @@ plugins:
   - glightbox
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/
   - social:
-      cards: true
+      cards: false
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
   # https://github.com/timvink/mkdocs-git-revision-date-localized-plugin
   - git-revision-date-localized:
