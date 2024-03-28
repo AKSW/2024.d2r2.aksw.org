@@ -5,6 +5,15 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-03-28 - Submissions assigned to PC"
+
+    We received 9 paper submissions to the workshop which are now assigned to the [members of program committee](program-committee.md) for review.
+
+!!! info "2024-03-27 - Early Registration Rates"
+
+    In order to attend the workshop, please [register to the ESWC2024](https://2024.eswc-conferences.org/registration/).
+    You will get the early registration rates until 2024-04-24.
+
 !!! info "2024-03-18 - Clarification of Page Limitations"
 
     Based on a question from a submitting researcher, we clarfied the submission page limits:
