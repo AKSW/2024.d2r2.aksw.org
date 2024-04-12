@@ -1,4 +1,7 @@
-# Organizing Committee
+---
+icon: material/account-group
+---
+# :material-account-group: Organizing Committee
 
 ## Julia Holze (contact person)
 

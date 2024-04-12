@@ -1,4 +1,7 @@
-# Proceedings
+---
+icon: octicons/book-16
+---
+# :octicons-book-16: Proceedings
 
 The following proceedings of the D2R2 workshops are published at the [CEUR Workshop Proceedings series](https://ceur-ws.org/) as follows:
 

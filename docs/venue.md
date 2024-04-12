@@ -1,4 +1,7 @@
-# Venue
+---
+icon: fontawesome/solid/map-location-dot
+---
+# :fontawesome-solid-map-location-dot: Venue
 
 D2R2’24 will be again a half-day Workshop at Aldemar Knossos Royal & Royal Villa, co-located with ESWC2024.
 

@@ -1,4 +1,7 @@
-# Call for Papers – D2R2’24: Third International Workshop on Linked Data-driven Resilience Research 2024
+---
+icon: octicons/megaphone-16
+---
+# :octicons-megaphone-16: Call for Papers – D2R2’24: Third International Workshop on Linked Data-driven Resilience Research 2024
 
 We invite contributions of novel results and ongoing work as well as position papers focusing on various aspects of Data-driven Resilience Research from a scientific or practical perspective.
 

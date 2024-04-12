@@ -1,4 +1,7 @@
-# Program Committee
+---
+icon: material/account-group-outline
+---
+# :material-account-group-outline: Program Committee
 
 Following is the list of confirmed program committee members in alphabetical order:
 

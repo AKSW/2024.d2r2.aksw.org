@@ -1,7 +1,8 @@
 ---
+icon: material/home
 title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience Research 2024 (2024-05-27)"
 ---
-# D2R2’24: Third International Workshop on Linked Data-driven Resilience Research 2024 (2024-05-27)
+# D2R2’24:</br>Third International Workshop on</br>Linked Data-driven Resilience Research 2024</br>2024-05-27
 
 ## Latest News
 
