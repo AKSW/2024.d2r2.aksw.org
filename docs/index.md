@@ -5,6 +5,14 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-04-11 - Author Notification"
+
+    After receiving the reviews, we selected 7 out of 9 submissions for presentation at the workshop and notified the authors.
+    Thanks again to the [Program Committee](program-committee.md) for doing the reviews mostly in time.
+
+    We kindly request that at least one author of the accepted papers register for the workshop and present the work.
+    The [early registration phase for the ESWC2024](registration.md) ends on **:calendar_spiral: 2024-04-24**.
+
 !!! info "2024-03-28 - Submissions assigned to PC"
 
     We received 9 paper submissions to the workshop which are now assigned to the [members of program committee](program-committee.md) for review.
@@ -12,7 +20,7 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 !!! info "2024-03-27 - Early Registration Rates"
 
     In order to attend the workshop, please [register to the ESWC2024](https://2024.eswc-conferences.org/registration/).
-    You will get the early registration rates until 2024-04-24.
+    You will get the early registration rates until **:calendar_spiral: 2024-04-24**.
 
 !!! info "2024-03-18 - Clarification of Page Limitations"
 
@@ -22,11 +30,11 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 !!! info "2024-02-27 - Deadline extension"
 
-    We extended the deadline for workshop submissions to 2024-03-22.
+    We extended the deadline for workshop submissions to **:calendar_spiral: 2024-03-22**.
 
 !!! info "2024-02-13 - Date Fixed"
 
-    The ESWC2024 workshops chairs just confirmed our workshop day via e-mail. The D2R2‘24 workshop will take place on 2024-05-27 (Monday).
+    The ESWC2024 workshops chairs just confirmed our workshop day via e-mail. The D2R2‘24 workshop will take place on **:calendar_spiral: 2024-05-27** (Monday).
 
 !!! info "2023-12-12 - Workshop accepted"
 

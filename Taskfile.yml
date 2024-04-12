@@ -16,7 +16,7 @@ tasks:
     desc: Clean up working directory
     run: once
     cmds:
-      - rm -rf site
+      - rm -rf site .cache
 
   install:
     desc: Install needed dependencies
