@@ -1,4 +1,7 @@
-# Previous Workshops
+---
+icon: material/skip-previous-circle
+---
+# :material-skip-previous-circle: Previous Workshops
 
 !!! info inline end ""
 
