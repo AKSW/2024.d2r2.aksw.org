@@ -6,6 +6,11 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-05-06 - Program finalized"
+
+    The progam is finalized and the keynote is confirmed.
+    We are happy to be able to announce our keynote speaker Andreas Harth with his keynote **A Process Perspective on Representing Logistics Flows** (see [abstract below](#keynote)).
+
 !!! info "2024-04-11 - Author Notification"
 
     After receiving the reviews, we selected 7 out of 9 submissions for presentation at the workshop and notified the authors.
@@ -45,6 +50,22 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
     We are now happy to anncounce, that the **Third International Workshop on Linked Data-driven Resilience Research 2024 (D2R2’24)** was accepted again as a half-day Workshop at the European Semantic Web Conference (ESWC2024).
 
     Please have a look at the [Call for Papers](call-for-papers.md) to get a overview on important dates.
+
+## Keynote
+
+**A Process Perspective on Representing Logistics Flows** by Andreas Harth (Chair of [Technical Information Systems](https://www.ti.rw.fau.de/) at the [School of Business, Economics and Society](https://www.wiso.rw.fau.eu/), [University of Erlangen–Nuremberg](https://www.fau.eu/) as well as head of the [Data Spaces and IoT Solutions](https://www.scs.fraunhofer.de/de/ueber-uns/organisation/data-spaces-and-iot-solutions.html) department at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html))
+
+!!! info inline end ""
+
+    ![Image title](/assets/people/AndreasHarth.jpg)
+
+The talk will explore several scenarios from production and logistics, demonstrating how a process-oriented
+perspective can effectively represent logistics flows.
+I will highlight the commonalities across these scenarios in terms of process representation and the associated query and analysis tasks.
+Although logistics flows in the presented scenarios typically focus on specific product or order details, a process abstractions can be applied at higher aggregation levels depending on data availability or analysis requirements.
+At any aggregation level, using a formal representation of logistics flows enables specific tasks such as identifying bottlenecks or temporal dependencies.
+By applying methods for querying and analysing logistics flows, my ultimate goal is to enhance transparency and strengthen resilience within supply networks.
+
 
 ## Abstract
 
