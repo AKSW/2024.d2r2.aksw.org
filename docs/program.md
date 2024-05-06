@@ -19,7 +19,10 @@ Additionally, we are happy to have a keynote at the beginning of our half day wo
 
 !!! tip "09:10 - Keynote"
 
-    **...** by [Andreas Harth](https://www.wiso.rw.fau.de/forschung/forschungsprofil/professorenschaft/prof-dr-andreas-harth/) (Chair of Technical Information Systems at the [School of Business, Economics and Society](https://www.wiso.rw.fau.eu/), [University of Erlangen–Nuremberg](https://www.fau.eu/))
+    **A Process Perspective on Representing Logistics Flows** by [Andreas Harth](https://www.wiso.rw.fau.de/forschung/forschungsprofil/professorenschaft/prof-dr-andreas-harth/)
+    (Chair of [Technical Information Systems](https://www.ti.rw.fau.de/) at the [School of Business, Economics and Society](https://www.wiso.rw.fau.eu/), [University of Erlangen–Nuremberg](https://www.fau.eu/)
+    as well as
+    head of the [Data Spaces and IoT Solutions](https://www.scs.fraunhofer.de/de/ueber-uns/organisation/data-spaces-and-iot-solutions.html) department at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html))
 
 !!! session "09:30 - Session 1 (Chair: Michael Martin)"
 
