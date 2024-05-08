@@ -57,14 +57,14 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 !!! info inline end ""
 
-    ![Image title](/assets/people/AndreasHarth.jpg)
+    ![Image title](assets/people/AndreasHarth.jpg)
 
 The talk will explore several scenarios from production and logistics, demonstrating how a process-oriented
 perspective can effectively represent logistics flows.
 I will highlight the commonalities across these scenarios in terms of process representation and the associated query and analysis tasks.
-Although logistics flows in the presented scenarios typically focus on specific product or order details, a process abstractions can be applied at higher aggregation levels depending on data availability or analysis requirements.
+Although logistics flows in the presented scenarios typically focus on specific product or order details, a process abstraction can be applied at higher aggregation levels depending on data availability or analysis requirements.
 At any aggregation level, using a formal representation of logistics flows enables specific tasks such as identifying bottlenecks or temporal dependencies.
-By applying methods for querying and analysing logistics flows, my ultimate goal is to enhance transparency and strengthen resilience within supply networks.
+By applying methods for querying and analysing logistics flows, the ultimate goal is to enhance transparency and strengthen resilience within supply networks.
 
 
 ## Abstract
