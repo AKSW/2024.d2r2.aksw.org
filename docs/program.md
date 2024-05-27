@@ -36,7 +36,7 @@ Additionally, we are happy to have a keynote at the beginning of our half day wo
 
     - 11:00 - **Leveraging small language models for Text2SPARQL tasks to improve the resilience of AI assistance** by Felix Brei, Johannes Frey and Lars-Peter Meyer
     - 11:20 - **Towards a Regional Public Dashboard for Crisis and Resilience Management** by Till Grabo, Fatih Kilic, Julia Lücke, Sabine Gründer-Fahrer, Michael Martin, Norman Radtke and Christian Danne
-    - 11:40 - **An Automated Evaluation Framework for Graph Database Query Generation Leveraging Large Language Models** by Bailan He, Yushan Liu, Marcel Hildebrandt, Zifeng Ding and Volker Tresp
+    - 11:40 - **An Automated Evaluation Framework for Graph Database Query Generation Leveraging Large Language Models** by Bailan He, Yushan Liu, Marcel Hildebrandt, Zifeng Ding, Yaomengxi Han and Volker Tresp
     - 12:00 - **Towards Modeling the Structure of Product Dependencies in Supply Networks to Identify Bottlenecks Among Suppliers** by Daniel Henselmann and Andreas Harth
 
 !!! food-outline "12:30 - Lunch"
