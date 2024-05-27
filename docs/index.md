@@ -6,6 +6,13 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-05-27 - Thank you all!"
+
+    ![Group Picture](assets/d2r2-2024.jpg){align=right width=50%}
+    We had a great event together, so thank you all for participating in the D2R2’24 workshop.
+
+    As a next step, we are now preparing the proceedings publication.
+
 !!! info "2024-05-06 - Program finalized"
 
     The progam is finalized and the keynote is confirmed.
