@@ -6,6 +6,10 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-06-04 - Slides added"
+
+    We added all presentations as PDF to the [program](program.md).
+
 !!! info "2024-05-27 - Thank you all!"
 
     ![Group Picture](assets/d2r2-2024.jpg){align=right width=50%}
