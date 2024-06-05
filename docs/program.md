@@ -30,7 +30,7 @@ Additionally, we are happy to have a keynote at the beginning of our half day wo
 
     - 09:30 - **Empowering Supply Chains Resilience: LLMs-Powered BN for Proactive Supply Chain Risk Identification** by Maryam Shahsavari, Omar Khadeer, Morteza Saberi and Pankaj Sharma ([:material-presentation: Slides](assets/slides/2024-05-27-D2R2-24-s1-p1-MaryamShahsavari.pdf))
     - 09:50 - **Anticipate risk with the value and trade flows knowledge graph** by Felix Engel, Mark Vanin and Nenad Krdzavac ([:material-presentation: Slides](assets/slides/2024-05-27-D2R2-24-s1-p2-NenadKrdzavac.pdf))
-    - 10:10 - **Knowledge Graph Alignment in the Context of Supply Chain Risk Management** by Rebeka Gadzo and Yushan Liu ([:material-presentation: Slides](assets/slides/2024-05-27-D2R2-24-s1-p3-RebekaGadzo.pdf))
+    - 10:10 - **Entity Alignment for Knowledge Graphs in the Context of Supply Chain Risk Management** by Rebeka Gadzo and Yushan Liu ([:material-presentation: Slides](assets/slides/2024-05-27-D2R2-24-s1-p3-RebekaGadzo.pdf))
 
 !!! coffee-break "10:30 - Coffee Break"
 
