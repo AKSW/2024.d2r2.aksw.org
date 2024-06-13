@@ -6,6 +6,11 @@ title: "D2R2’24: Third International Workshop on Linked Data-driven Resilience
 
 ## Latest News
 
+!!! info "2024-06-12 - Proceedings published"
+
+    We are happy that our proceedings are now [published on ceur-ws.org](proceedings.md).
+    We added links to all papers on the [program page](program.md).
+
 !!! info "2024-06-04 - Slides added"
 
     We added all presentations as PDF to the [program](program.md).
